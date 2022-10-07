@@ -10,7 +10,7 @@ A* algorithym
 map coloring  
 traveling sales man  
 feed forward NN   
-family tree
+family tree   
 fruit color  
 best first search   
 dieting system   
