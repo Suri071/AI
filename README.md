@@ -9,3 +9,9 @@ implement dfs
 A* algorithym  
 map coloring  
 traveling sales man  
+feed forward NN   
+family tree
+fruit color  
+best first search   
+dieting system   
+map coloring   
